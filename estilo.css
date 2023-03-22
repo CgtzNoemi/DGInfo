@@ -1,0 +1,40 @@
+.contenedor {
+    background-color: #C3E3DB;
+    width: 100%;
+}
+
+.logo {
+    height: 80px;
+    padding: 7px;
+}
+h2 {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px #a3ddcf;
+}
+body {
+    background-image: url("img/fondo.jpg");
+    margin: 0;
+    margin-bottom: 40px;
+}
+.row {
+    margin:0px;
+    padding: 10px;
+}
+
+.video {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+html {
+    min-height: 100%;
+    position: relative;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
